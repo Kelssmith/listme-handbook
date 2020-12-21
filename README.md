@@ -9,3 +9,6 @@
 - [Team](team.md)
 - [Projects](https://github.com/perminder-klair/projects/projects/1)
 - [Project Kickoff](kickoff.md)
+- [Awesome List](awesome-list.md)
+- [Company's Guidelines](guidelines.md)
+
