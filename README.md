@@ -4,7 +4,7 @@
   <p>This is collection of information useful to team at Zeiq. Share as much as information here</p>
 </div>
 
-## Index
+## Contents
 
 - [Team](team.md)
 - [Projects](https://github.com/perminder-klair/projects/projects/1)
