@@ -1,7 +1,7 @@
 <div align="center">
-  # Zeiq Projects
+  <h1>Zeiq Projects</h1>
   
-  This is collection of information useful to team at Zeiq. Share as much as information here
+  <p>This is collection of information useful to team at Zeiq. Share as much as information here</p>
 </div>
 
 ## Index
