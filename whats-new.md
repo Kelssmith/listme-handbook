@@ -6,4 +6,5 @@ Collect team announcements and news in one place so that everyone can access the
 
 ## Announcements
 
+- Kunal's birthday - 22 Dec 2020
 - We have new knowledgebase repository
