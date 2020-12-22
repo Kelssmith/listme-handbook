@@ -6,6 +6,9 @@
 
 ## Contents
 
+- [What's New](whats-new.md)
+- [Company Goals](goals.md)
+- [Mission, Vision, Values](mission.md)
 - [Team](team.md)
 - [Projects](https://github.com/perminder-klair/projects/projects/1)
 - [Awesome Tools List](awesome-list.md)
