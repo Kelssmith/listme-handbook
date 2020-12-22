@@ -15,4 +15,5 @@
 - [Development Kickoff Stack](kickoff.md)
 - [Development Machine Setup](development-machine.md)
 - [Active Projects](https://github.com/perminder-klair/projects/projects/1)
+- [Development Tools](development-tools.md)
 
