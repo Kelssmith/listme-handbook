@@ -10,9 +10,9 @@
 - [Company Goals](goals.md)
 - [Mission, Vision, Values](mission.md)
 - [Team](team.md)
-- [Projects](https://github.com/perminder-klair/projects/projects/1)
 - [Awesome Tools List](awesome-list.md)
 - [Company's Guidelines](guidelines.md)
 - [Development Kickoff Stack](kickoff.md)
 - [Development Machine Setup](development-machine.md)
+- [Active Projects](https://github.com/perminder-klair/projects/projects/1)
 
