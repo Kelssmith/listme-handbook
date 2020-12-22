@@ -1,5 +1,20 @@
 # Developmement Libraries
 
+## Guidelines
+
+### Name your feature branches by convention
+
+Use a consistent naming convention for your feature branches to identify the work done in the branch. You can also include other information in the branch name, such as who created the branch.
+
+Some suggestions for naming your feature branches:
+
+```
+bugfix/description
+feature/feature-name
+feature/feature-area/feature-name
+hotfix/description
+```
+
 ## Javascript Tools
 
 - [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
