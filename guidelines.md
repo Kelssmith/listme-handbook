@@ -53,6 +53,10 @@ Even though we have a cleanup crew that comes in off hours, please keep the plac
 - Do not waste paper and always recycle.
 - Compost your food! Do not just throw it in the trash.
 
+## Requesting time off
+
+Time off can be requested through Telegram Group or via email to: [parminder@zeiq.co](mailto:parminder@zeiq.co)
+
 ## Have questions?
 
 Contact the office manager with any additional questions here: [parminder@zeiq.co](mailto:parminder@zeiq.co).
