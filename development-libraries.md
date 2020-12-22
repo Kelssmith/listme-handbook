@@ -11,7 +11,12 @@
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
 - [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
+- [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 
+## UI Libraries
+
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot Notifications for React.
+- [bulma.io](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
 
 ## Development Tools
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
