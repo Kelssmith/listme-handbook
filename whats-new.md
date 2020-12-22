@@ -6,5 +6,6 @@ Collect team announcements and news in one place so that everyone can access the
 
 ## Announcements
 
+- Launched Zeiq's Handbook - 22 Dec 2020
 - Kunal's birthday - 22 Dec 2020
-- We have new knowledgebase repository
+- Brand new www.zeiq.co website 10 Oct 2020
