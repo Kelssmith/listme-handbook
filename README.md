@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Zeiq Projects</h1>
+  <h1>Zeiq Handbook</h1>
   
   <p>This is collection of information useful to team at Zeiq. Share as much as information here</p>
 </div>
@@ -14,6 +14,6 @@
 - [Company's Guidelines](guidelines.md)
 - [Development Kickoff Stack](kickoff.md)
 - [Development Machine Setup](development-machine.md)
-- [Active Projects](https://github.com/perminder-klair/projects/projects/1)
 - [Development Tools](development-tools.md)
+- [Active Projects](https://github.com/perminder-klair/projects/projects/1)
 
