@@ -32,6 +32,7 @@ hotfix/description
 
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot Notifications for React.
 - [bulma.io](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
+- [Bootstrap](https://getbootstrap.com/) - Bootstrap is a free, open source CSS framework based on Flexbox.
 
 ## Development Tools
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
