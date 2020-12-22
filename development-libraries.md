@@ -46,6 +46,7 @@ hotfix/description
 ## Animation Libraries
 
 - [react-spring is a spring-physics based animation library.](https://www.react-spring.io/)
+- [Simple examples of animations, gestures, components, transforms and more.](https://www.framer.com/api/motion/examples/)
 
 ## MacOS Tools
 
