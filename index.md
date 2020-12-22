@@ -4,8 +4,12 @@
   <p>This is collection of information useful to team at Zeiq. Share as much as information here</p>
 </div>
 
-## Index
+## Contents
 
 - [Team](team.md)
 - [Projects](https://github.com/perminder-klair/projects/projects/1)
-- [Project Kickoff](kickoff.md)
+- [Awesome Tools List](awesome-list.md)
+- [Company's Guidelines](guidelines.md)
+- [Development Kickoff Stack](kickoff.md)
+- [Development Machine Setup](development-machine.md)
+
