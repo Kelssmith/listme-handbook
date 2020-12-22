@@ -7,4 +7,4 @@
 
 ## Animation Libraries
 
-- [react-spring is a spring-physics based animation library.] (https://www.react-spring.io/)
+- [react-spring is a spring-physics based animation library.](https://www.react-spring.io/)
