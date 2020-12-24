@@ -9,3 +9,9 @@ Help your team keep track of who's who. Each card can be opened to store an empl
 - Title: CEO
 - Email: parminder@zeiq.co
 - Telephone: 123123
+
+### Gagan Saini
+
+- Title: Front End Developer
+- Email: gagan@zeiq.co
+- Telephone: 97803 41052

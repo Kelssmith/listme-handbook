@@ -36,3 +36,4 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 - [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
 - [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
+- [React Rating Libraries](https://reactjsexample.com/tag/rating/)
