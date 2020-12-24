@@ -67,3 +67,4 @@ _ [Auto suggestions using react](https://github.com/moroshko/react-autosuggest#f
 - [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file.
 - [AdminBro](https://github.com/SoftwareBrothers/admin-bro) - Auto-generated admin panel with CRUD for all your resources.
 - [Sanity](https://www.sanity.io/) - Sanity is the ultimate content management platform.
+- [Contentful](https://www.contentful.com/) - Easiest, fastest way to manage content.
