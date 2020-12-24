@@ -48,6 +48,7 @@ hotfix/description
 
 - [react-spring is a spring-physics based animation library.](https://www.react-spring.io/)
 - [Simple examples of animations, gestures, components, transforms and more.](https://www.framer.com/api/motion/examples/)
+- [Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.](https://animejs.com/)
 
 ## MacOS Tools
 
