@@ -43,6 +43,7 @@ hotfix/description
 
 - [Fuse.js is a powerful, lightweight fuzzy-search library](https://fusejs.io/)
 - [Very fast search using Elastic Search](https://github.com/appbaseio/reactivesearch)
+_ [Auto suggestions using react](https://github.com/moroshko/react-autosuggest#features)
 
 ## Animation Libraries
 
