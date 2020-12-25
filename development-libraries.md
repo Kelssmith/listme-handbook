@@ -27,6 +27,8 @@ hotfix/description
 - [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
 - [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
+- [Easy Peasy](https://easy-peasy.now.sh/) - To store data locally.
+
 
 ## UI Libraries
 
