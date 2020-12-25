@@ -15,3 +15,9 @@ Help your team keep track of who's who. Each card can be opened to store an empl
 - Title: Front End Developer
 - Email: gagan@zeiq.co
 - Telephone: 97803 41052
+
+### Vishal
+
+- Title: Front End Developer
+- Email: vishal@zeiq.co
+- Telephone: 9877532562
