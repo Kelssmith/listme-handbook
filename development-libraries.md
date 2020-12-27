@@ -70,6 +70,7 @@ _ [Auto suggestions using react](https://github.com/moroshko/react-autosuggest#f
 - [AdminBro](https://github.com/SoftwareBrothers/admin-bro) - Auto-generated admin panel with CRUD for all your resources.
 - [Sanity](https://www.sanity.io/) - Sanity is the ultimate content management platform.
 - [Contentful](https://www.contentful.com/) - Easiest, fastest way to manage content.
+- [DatoCms](https://www.datocms.com/) - It's the CMS for the modern web
 
 #  React js Svg Animations libraries.
 
@@ -77,7 +78,7 @@ _ [Auto suggestions using react](https://github.com/moroshko/react-autosuggest#f
 - [Svg.js](https://svgjs.com/docs/3.0/) - The  library for manipulating and animating SVG.
 - [Ani.js](https://anijs.github.io/) - A Library to Raise your Web Design without Coding
 - [Mo.js](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web.
--  [Particle.js](https://vincentgarreau.com/particles.js/) -  JavaScript library for creating particles.
+- [Particle.js](https://vincentgarreau.com/particles.js/) -  JavaScript library for creating particles.
 - [Anime.js](https://github.com/juliangarnier/anime) -Lightweight css svg animation.
 - [Cloth ](https://codepen.io/dissimulate/pen/KrAwx) -  Tear the cloth with mouse
 - [Snap.js](http://snapsvg.io/demos/#mascot) -Svg Graphics animations.
