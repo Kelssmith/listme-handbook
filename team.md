@@ -21,3 +21,10 @@ Help your team keep track of who's who. Each card can be opened to store an empl
 - Title: Front End Developer
 - Email: vishal@zeiq.co
 - Telephone: 9877532562
+
+### Dharmveer Bangar
+
+- Title: Frontend Developer
+- Email: dharmveer@zeiq.co
+- Telephone: [+916283142584](tel:+916283142584)
+- Github: [dharmveer97](https://github.com/dharmveer97)
