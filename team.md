@@ -26,5 +26,5 @@ Help your team keep track of who's who. Each card can be opened to store an empl
 
 - Title: Frontend Developer
 - Email: dharmveer@zeiq.co
-- Telephone: [+916283142584](+916283142584)
+- Telephone: +916283142584
 - Github: [dharmveer97](https://github.com/dharmveer97)
