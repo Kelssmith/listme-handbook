@@ -37,3 +37,6 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 - [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
 - [React Rating Libraries](https://reactjsexample.com/tag/rating/)
+
+### Online tools
+- [Stackdit](https://stackedit.io/) - Rich Markdown editor
