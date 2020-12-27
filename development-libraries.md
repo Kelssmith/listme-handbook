@@ -89,7 +89,8 @@ _ [Auto suggestions using react](https://github.com/moroshko/react-autosuggest#f
 
 # Ecommerce tools used in frontend.
 - [React-Image-magnify](https://github.com/ethanselzer/react-image-magnify) - Designed for shopping site product detail.
-- [React-image-zoom](https://github.com/malaman/react-image-zoom) -                Image zoom on mouse hover.
+- [React-image-zoom](https://github.com/malaman/react-image-zoom) - Image zoom on mouse hover.
+- [Search Bar](https://codepen.io/omarsherifs/pen/KGLYYW) - Pure css animated search bar.
 
 
 
