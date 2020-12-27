@@ -70,3 +70,26 @@ _ [Auto suggestions using react](https://github.com/moroshko/react-autosuggest#f
 - [AdminBro](https://github.com/SoftwareBrothers/admin-bro) - Auto-generated admin panel with CRUD for all your resources.
 - [Sanity](https://www.sanity.io/) - Sanity is the ultimate content management platform.
 - [Contentful](https://www.contentful.com/) - Easiest, fastest way to manage content.
+
+#  React js Svg Animations libraries.
+
+- [Three js](https://threejs.org/) - Create modern svg animations.
+- [Svg.js](https://svgjs.com/docs/3.0/) - The  library for manipulating and animating SVG.
+- [Ani.js](https://anijs.github.io/) - A Library to Raise your Web Design without Coding
+- [Mo.js](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web.
+-  [Particle.js](https://vincentgarreau.com/particles.js/) -  JavaScript library for creating particles.
+- [Anime.js](https://github.com/juliangarnier/anime) -Lightweight css svg animation.
+- [Cloth ](https://codepen.io/dissimulate/pen/KrAwx) -  Tear the cloth with mouse
+- [Snap.js](http://snapsvg.io/demos/#mascot) -Svg Graphics animations.
+- [Kute.js](https://github.com/thednp/kute.js/) - Animated slider
+- [Velocity.js](http://velocityjs.org/) -  Accelerated JavaScript animation.
+
+
+
+# Ecommerce tools used in frontend.
+- [React-Image-magnify](https://github.com/ethanselzer/react-image-magnify) - Designed for shopping site product detail.
+- [React-image-zoom](https://github.com/malaman/react-image-zoom) -                Image zoom on mouse hover.
+
+
+
+
