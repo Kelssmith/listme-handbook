@@ -17,7 +17,7 @@ hotfix/description
 
 ## Javascript Tools
 
-- [Cleave.js](https://nosir.github.io/cleave.js/) - Format your input content when you are typing.
+- [Cleave.js](https://nosir.github.io/cleave.js/) - Format your input content when you are typing eg cart,date,time,Numerals.
 - [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 - [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
