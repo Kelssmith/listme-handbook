@@ -28,3 +28,11 @@ Help your team keep track of who's who. Each card can be opened to store an empl
 - Email: dharmveer@zeiq.co
 - Telephone: +916283142584
 - Github: [dharmveer97](https://github.com/dharmveer97)
+
+### Kunal Sharma
+
+- Title: Frontend Developer
+- Email: kunal@zeiq.co
+- Telephone: +917973985831
+- Github: [iamkunall](https://github.com/iamkunall)
+
