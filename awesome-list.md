@@ -21,7 +21,12 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
+
+### Awesome Github Repository
 - [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - Curated list of resources: books, videos, articles about using Next.js.
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
+
+
 
 ### Articles
 
