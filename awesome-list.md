@@ -42,6 +42,6 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 - [Stackdit](https://stackedit.io/) - Rich Markdown editor
 
 ### API Tools
--[hoppscotch] (https://hoppscotch.io/)-  A free, fast and beautiful API request builder
+- [hoppscotch](https://hoppscotch.io/)-  A free, fast and beautiful API request builder
 
 
