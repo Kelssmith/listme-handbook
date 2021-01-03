@@ -25,6 +25,8 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 ### Awesome Github Repository
 - [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - Curated list of resources: books, videos, articles about using Next.js.
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
+
 
 
 
