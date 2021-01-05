@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Zeiq Handbook</h1>
-  
-  <p>This is collection of information useful to team at Zeiq. Share as much as information here</p>
+  <h1>ListMe Handbook</h1>
+
+  <p>This is collection of information useful to team at ListMe. Share as much as information here</p>
 </div>
 
 ## Contents
@@ -15,5 +15,4 @@
 - [Development Machine Setup](development-machine.md)
 - [Development Libraries](development-libraries.md)
 - [Design Guidelines and Tools](design.md)
-- [Active Projects](https://github.com/perminder-klair/projects/projects/1)
-
+- [Team Wide Issues](https://github.com/perminder-klair/projects/listme-handbook/1)

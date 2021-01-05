@@ -6,6 +6,5 @@ Collect team announcements and news in one place so that everyone can access the
 
 ## Announcements
 
-- Launched Zeiq's Handbook - 22 Dec 2020
-- Kunal's birthday - 22 Dec 2020
-- Brand new www.zeiq.co website 10 Oct 2020
+- Launched ListMe's Handbook - 5 Jan 2021
+- Brand new www.listmeapp.co website 10 Oct 2020

@@ -4,9 +4,9 @@
 Consider creating one, central living document that codifies your company's office etiquette and norms. This can save new (and even existing employees) a lot of time and headaches getting oriented.
 ```
 
-## Morning meetings
+## Daily updates
 
-Every working day, on start of the day, a message should be left at Zeiq's Telegram Group
+Every working day, on start of the day, a message should be left at ListMe's Telegram Group
 
 ```
 Morning meeting updates like:
@@ -16,7 +16,6 @@ I need: Help from ... for ...
 
 write updates properly
 ```
-
 
 ## Social Code
 
@@ -28,13 +27,13 @@ We have a semi-flex workspace. Some people like to sit at the same desk 80% of t
 
 ## Tools, policies and processes
 
-At Zeiq, project teams are free to do what they need to in order to get the job done.
+At ListMe, project teams are free to do what they need to in order to get the job done.
 
 That’s our primary aim, but in an agency we need to have some standard practices that hold us together, as well as the freedom to work in the way we need to, so that we can deliver great work for our clients.
 
 Here’s a quick rundown of our company-wide standard:
 
-### Company-wide tools.
+### Company-wide tools
 
 - Discipline-specific software, tools and standards, e.g. development environments.
 - Project oversight boards act as a living risk register. Every project board also includes key delivery metrics which help us assess the health of the project (internal only).
@@ -42,13 +41,12 @@ Here’s a quick rundown of our company-wide standard:
 - Our project management tool – [Github Issues](https://github.com/).
 - Our instant communication tool – [Telegram](https://telegram.org/).
 - [Google Drive](https://drive.google.com/drive/folders/0B8iWG4AtNctDRTJESXg5ZW5nRGM?usp=sharing) – Project documentation repository and shared files with clients and team internally.
-- Our Invoicing tool – [Apple Pages](https://www.apple.com/in/pages/).
 
 If a company-wide standard tool or process isn’t working as well as you think it could or you think there’s a better way, get a group together and recommend a better way for consideration.
 
 ## Monthly 1 to 1
 
-Every Zeiq team member has a 60 minute one-to-one with their line manager every month.
+Every ListMe team member has a 60 minute one-to-one with their line manager every month.
 
 While we have a strong culture of direct and timely feedback, the monthly one-to-one meeting is an opportunity to take a step back from the day-to-day work and discuss what's on your mind.
 
@@ -72,10 +70,6 @@ An easy test is – could you hold a video conference call with a client from wh
 
 Remember, if you’re working with confidential information on your screen, then make sure you’re working somewhere that is appropriate for that.
 
-### How many hours do I work?
-
-Our model working week is 35 hours. Sometimes it’s necessary to work more and sometimes we have slack time. For tracking purposes, a working week runs Monday to Sunday.
-
 ### What are core hours?
 
 Core working hours are Monday to Friday 10am to 5pm.
@@ -86,13 +80,13 @@ It’s not about being at a screen 100% of that time; going for a coffee or taki
 
 ## Mental health
 
-If you’re not feeling yourself and wish to share what’s going on for you, they’re both more than happy to be approached and meet discreetly for a coffee to listen and support. 
+If you’re not feeling yourself and wish to share what’s going on for you, they’re both more than happy to be approached and meet discreetly for a coffee to listen and support.
 
 If interested, they’ll be able to help signpost you to some professional support, advise on complementary or alternative therapies e.g. meditation, yoga or massage.
 
 If what you’re dealing with is a result of work, we may ask your permission to share this with your line manager as there may be some adjustments we can make to your job or workload to help alleviate the load.
 
-In the majority of cases, what you share with us will remain strictly confidential. However, if after speaking to you we’re seriously concerned about your own safety,  we will need to disclose this to Parminder Klair (Managing Director) as we have a legal duty of care for all our employees. 
+In the majority of cases, what you share with us will remain strictly confidential. However, if after speaking to you we’re seriously concerned about your own safety, we will need to disclose this to Parminder Klair (Managing Director) as we have a legal duty of care for all our employees.
 
 ## Time recording
 
@@ -106,25 +100,6 @@ This doesn’t ever include being dishonest or misleading – that would be toxi
 
 We expect everyone to use Toggl to record their working time each week. Normally that will be a minimum of 35 hours per week.
 
-## Headphones
-
-We don't like rules, but focus is important to finish tasks. You are the boss of your agenda and you are in charge of when you can be disturbed and when you can't. Headphones on = do not disturb. Simple, right? Try it out!
-
-## Snacks
-
-- We order snacks every Monday. Send the office manager any recommendations before her cutoff at 11 a.m. that day.
-- We have water, soda, beer and other fizzy drinks on a regular basis.
-- We provide fruit every day 🍇🍎🍊
-- We generally have yogurt, peanut butter, bread, nuts, and granola bars on hand, too.
-
-## Cleaning up
-
-Please keep the place picked up. Here are some good rules of thumb: 
-
-- Rinse your own dishes and put them in the dishwasher.
-- Throw away your stuff. Don't leave garbage on your desk.
-- Clean the coffee machine if you're the last one to use it in the morning.
-
 ## Think environmental ♻️
 
 - Turn off lights if you're locking up at the end of the night.
@@ -134,8 +109,8 @@ Please keep the place picked up. Here are some good rules of thumb:
 
 ## Requesting time off
 
-Time off can be requested through Telegram Group or via email to: [parminder@zeiq.co](mailto:parminder@zeiq.co)
+Time off can be requested through Telegram Group or via email to: [ks@listmeapp.co](mailto:ks@listmeapp.co)
 
 ## Have questions?
 
-Contact the office manager with any additional questions here: [parminder@zeiq.co](mailto:parminder@zeiq.co).
+Contact the office manager with any additional questions here: [ks@listmeapp.co](mailto:ks@listmeapp.co).

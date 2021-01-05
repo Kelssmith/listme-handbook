@@ -23,12 +23,10 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 - [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
 
 ### Awesome Github Repository
+
 - [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - Curated list of resources: books, videos, articles about using Next.js.
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
-
-
-
 
 ### Articles
 
@@ -46,9 +44,9 @@ This is a collection of awesome tools which can be useful to the team. Feel free
 - [React Rating Libraries](https://reactjsexample.com/tag/rating/)
 
 ### Online tools
+
 - [Stackdit](https://stackedit.io/) - Rich Markdown editor
 
 ### API Tools
-- [hoppscotch](https://hoppscotch.io/)-  A free, fast and beautiful API request builder
 
-
+- [hoppscotch](https://hoppscotch.io/)- A free, fast and beautiful API request builder

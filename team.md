@@ -1,4 +1,4 @@
-# Zeiq's Team
+# ListMe's Team
 
 ```
 Help your team keep track of who's who. Each card can be opened to store an employee bio, past achievements, goals, etc. Emojis and custom database properties can add some personality too 🙌
@@ -7,32 +7,17 @@ Help your team keep track of who's who. Each card can be opened to store an empl
 ### Parminder Klair
 
 - Title: CEO
-- Email: parminder@zeiq.co
+- Email: parminder@ListMe.co
 - Telephone: 123123
+
+### Kel Smith
+
+- Title: **\*\*\*\***
+- Email: ks@listmeapp.co
+- Telephone: **\*\*\*\***
 
 ### Gagan Saini
 
 - Title: Front End Developer
-- Email: gagan@zeiq.co
+- Email: gagan@ListMe.co
 - Telephone: 97803 41052
-
-### Vishal
-
-- Title: Front End Developer
-- Email: vishal@zeiq.co
-- Telephone: 9877532562
-
-### Dharmveer Bangar
-
-- Title: Frontend Developer
-- Email: dharmveer@zeiq.co
-- Telephone: +916283142584
-- Github: [dharmveer97](https://github.com/dharmveer97)
-
-### Kunal Sharma
-
-- Title: Frontend Developer
-- Email: kunal@zeiq.co
-- Telephone: +917973985831
-- Github: [iamkunall](https://github.com/iamkunall)
-

@@ -1,6 +1,5 @@
 # Mission, Vision, Values
 
-
 ## Mission
 
 ```
@@ -37,9 +36,9 @@ By the standards of the rest of the world, we overtrust. We’re okay with that.
 
 ### **Global optimization**
 
-Zeiq do what’s best for the organization overall.
+ListMe do what’s best for the organization overall.
 
-### **The Zeiq service**
+### **The ListMe service**
 
 Through the tools that we build, we want to push the world to create better products and services.
 
