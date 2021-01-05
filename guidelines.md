@@ -40,13 +40,13 @@ Here’s a quick rundown of our company-wide standard:
 - Our time recording tool – [Toggle](https://www.toggl.com/).
 - Our project management tool – [Github Issues](https://github.com/).
 - Our instant communication tool – [Telegram](https://telegram.org/).
-- [Google Drive](https://drive.google.com/drive/folders/0B8iWG4AtNctDRTJESXg5ZW5nRGM?usp=sharing) – Project documentation repository and shared files with clients and team internally.
+- [Google Drive](On request access, speak with your team manager) – Project documentation repository, shared files and team workflows.
 
 If a company-wide standard tool or process isn’t working as well as you think it could or you think there’s a better way, get a group together and recommend a better way for consideration.
 
 ## Monthly 1 to 1
 
-Every ListMe team member has a 60 minute one-to-one with their line manager every month.
+Every ListMe team member has a 60 minute one-to-one with their line manager every month. (AdHoc)
 
 While we have a strong culture of direct and timely feedback, the monthly one-to-one meeting is an opportunity to take a step back from the day-to-day work and discuss what's on your mind.
 
@@ -109,8 +109,8 @@ We expect everyone to use Toggl to record their working time each week. Normally
 
 ## Requesting time off
 
-Time off can be requested through Telegram Group or via email to: [ks@listmeapp.co](mailto:ks@listmeapp.co)
+Time off can be requested through Telegram Group or via email to: [hr@listmeapp.co](mailto:hr@listmeapp.co)
 
 ## Have questions?
 
-Contact the office manager with any additional questions here: [ks@listmeapp.co](mailto:ks@listmeapp.co).
+Contact the office manager with any additional questions here: [hr@listmeapp.co](mailto:hr@listmeapp.co)
